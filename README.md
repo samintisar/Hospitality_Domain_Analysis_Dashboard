@@ -36,6 +36,7 @@ This project is a **Power BI dashboard** that provides insights into hotel booki
 | `dim_rooms.csv`                | Room classification details (Luxury, Business). |
 | `dim_date.csv`                 | Date information for trend analysis. |
 | `metrics_list.xlsx`            | List of key metrics used in the dashboard. |
+📌 Note: The dataset used in this project was synthetically generated using SQL to simulate real-world hotel booking scenarios.
 
 ---
 
