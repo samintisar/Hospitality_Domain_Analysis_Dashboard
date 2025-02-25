@@ -5,7 +5,7 @@ This project is a **Power BI dashboard** that provides insights into hotel booki
 
 ## 🛠️ Tools Used
 - **Power BI** – For data visualization and interactive reporting.
-- **SQL** – Used for data extraction, transformation, and aggregation.
+- **SQL** – Used for data generation, extraction, transformation, and aggregation.
 - **Excel/CSV Files** – Data sources for bookings, hotels, rooms, and dates.
 
 ---
